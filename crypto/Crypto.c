@@ -5,6 +5,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "Crypto.h"
 
 int main(int argc, char** argv) {
 	//prints instructions if invalid input
